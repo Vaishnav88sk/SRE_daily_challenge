@@ -6,11 +6,9 @@ with open("buckets.json", "r") as file:
 
 print("Bucket Summary:")
 for bucket in data["buckets"]:
-    print(f"Name: {bucket['name']}, Region: {bucket['region']}, "
-          f"Size: {bucket['sizeGB']} GB, Versioning: {bucket['versioning']}")
-
+    print(f"Name: {bucket['name']}, Region: {bucket['region']}, Size: {bucket['sizeGB']} GB, Versioning: {bucket['versioning']}")
+    
 current_date = datetime.now()
-
 
 def days_since_created(created_on):
     created_date = datetime.strptime(created_on, "%Y-%m-%d")
