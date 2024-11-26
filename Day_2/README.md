@@ -18,7 +18,7 @@ Using the provided JSON file, implement the following:
 4. Provide a final list of buckets to delete (from the deletion queue). For archival candidates, suggest moving to Glacier.
 
 ## Outputs: 
-
+1.
 ![Screenshot 1](https://github.com/Vaishnav88sk/SRE_daily_challenge/blob/main/Day_2/outputs/Day2_Screenshot_1.png?raw=true)
-
+2.
 ![Screenshot 2](https://github.com/Vaishnav88sk/SRE_daily_challenge/blob/main/Day_2/outputs/Day2_Screenshot_2.png?raw=true)
