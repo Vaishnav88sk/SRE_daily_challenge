@@ -1,3 +1,3 @@
 # SRE Challenge
 
-## DevOps SRE Daily Challenge - with [Sagar Utekar](https://github.com/Sagar2366)
+## DevOps SRE Daily Challenges - with [Sagar Utekar](https://github.com/Sagar2366)
